@@ -1,0 +1,509 @@
+Material Supplier,Material Name,General Material Type,Specific Material Type,Post Processed,Ultimate Tensile Strength Min (MPa),Ultimate Tensile Strength Max (MPa),Tensile Modulus Min (MPa),Tensile Modulus Max (MPa),Elongation at Break Min (%),Elongation at Break Max (%),Flexural Strength Min (MPa),Flexural Strength Max (MPa),Flexural Modulus Min (MPa),Flexural Modulus Max (MPa),Hardness Shore Scale,Hardness Min,Hardness Max,HDT Min (C),HDT Max (C),Glass Transition Temp Min (C),Glass Transition Temp Max (C),Part Density (g/cm3),Flammability,USP Class VI Certified
+3D Systems,Accura 25,Polymer,PP,No,38,38,1590,1660,13,20,55,58,1380,1660,Shore D,80,80,58,63,60,60,1.19,,No
+3D Systems,Accura 48HTR,Polymer,,No,64,67,2800,3980,4,7,105,118,2760,3400,Shore D,86,86,65,65,62,62,1.23,,No
+3D Systems,Accura 48HTR,Polymer,,Yes,64,67,2800,3980,4,7,105,118,2760,3400,Shore D,86,86,130,130,132,132,1.23,,No
+3D Systems,Accura 55,Polymer,ABS,No,63,68,3200,3380,5,8,88,110,2690,3240,Shore D,85,85,55,58,56,56,1.2,,No
+3D Systems,Accura 60,Polymer,PC,No,58,68,2690,3100,5,13,87,101,2700,3000,Shore D,86,86,53,55,58,58,1.21,,No
+3D Systems,Accura ABS Black (SL 7820),Polymer,ABS,No,36,51,1900,2500,8,18,59,80,2000,2400,Shore D,86,86,50,51,62,62,1.16,,No
+3D Systems,Accura ABS White (SL 7810),Polymer,ABS,No,36,51,1800,2400,10,20,59,72,1900,2400,Shore D,86,87,50,51,62,62,1.16,,No
+3D Systems,Accura Amethyst,Polymer,,No,22,38,3514,3996,0.56,1.04,87,125,3652,3721,Shore D,87,87,77,77,103,103,1.23,,No
+3D Systems,Accura Bluestone,Composite,,No,66,68,7600,11700,1.4,2.4,124,154,8300,9800,Shore D,92,92,65,66,71,83,1.78,,No
+3D Systems,Accura Bluestone,Composite,,Yes,66,68,7600,11700,1.4,2.4,124,154,8300,9800,Shore D,92,92,267,267,71,83,1.78,,No
+3D Systems,Accura CastPro,Polymer,,No,52,53,2490,2620,4.1,8.3,82,84,2310,2340,Shore D,85,85,51,51,70,70,1.17,,No
+3D Systems,Accura CeraMAX,Composite,,No,78,87,9460,9680,1,1.5,137,145,8270,8370,Shore D,89,89,148,148,108,110,1.62,,No
+3D Systems,Accura CeraMAX,Composite,,Yes,78,87,9460,9680,1,1.5,137,145,8270,8370,Shore D,89,89,220,220,112,114,1.62,,No
+3D Systems,Accura ClearVue,Polymer,,No,46,53,2270,2640,3,15,72,84,1980,2310,Shore D,80,80,51,51,62,62,1.17,,No
+3D Systems,Accura e-Stone,Polymer,,No,37,39,1500,1750,10,23,54,59,1350,1750,Shore D,80,80,58,63,60,60,1.19,,No
+3D Systems,Accura PEAK,Polymer,,No,57,78,4220,4790,1.3,2.5,77,126,4180,4790,Shore D,86,86,78,78,104,104,1.36,,No
+3D Systems,Accura PEAK,Polymer,,Yes,57,78,4220,4790,1.3,2.5,77,126,4180,4790,Shore D,86,86,153,153,110,110,1.36,,No
+3D Systems,Accura Sapphire,Polymer,,No,20,24,910,1110,9,16,28,38,1080,1420,Shore D,72,72,38,38,58,58,1.18,,No
+3D Systems,Accura SL 7840,Polymer,PP,No,,,,,,,,,,,,,,,,,,,,No
+3D Systems,Accura Xtreme,Polymer,,No,38,44,1790,1980,14,22,52,71,1520,2070,,,,62,62,,,1.19,,No
+3D Systems,Accura Xtreme White 200,Polymer,ABS/PP,No,45,50,2300,2630,7,20,75,79,2350,2550,Shore D,72,80,47,47,52,52,1.18,,No
+3D Systems,CastForm PS,Polymer,,No,2.84,2.84,1604,1604,,,,,,,,,,,,89,89,,,No
+3D Systems,DuraForm EX,Polymer,ABS/PP,No,37,48,1517,1517,47,47,42,46,1310,1310,Shore D,74,74,188,188,,,,HB,No
+3D Systems,DuraForm Flex,Polymer,Rubber,No,1.8,2.3,7.4,9.2,110,151,,,5.9,7.8,Shore A,45,75,,,,,,,No
+3D Systems,DuraForm FR 100,Polymer,,No,27,32,1880,1880,20,20,41,46,1462,1462,Shore D,73,73,194,194,,,1.03,V-0,No
+3D Systems,DuraForm GF,Composite,PA-Glass,No,26,27,4068,4068,1.4,1.4,37,37,3106,3106,Shore D,77,77,179,179,,,1.49,HB,No
+3D Systems,DuraForm HST,Composite,,No,31,51,2900,5725,2.7,4.5,64,89,2625,4550,Shore D,75,75,178.8,184,,,,HB,No
+3D Systems,DuraForm PA,Polymer,PA,No,43,43,1586,1586,14,14,48,48,1387,1387,Shore D,73,73,180,180,,,,HB,No
+3D Systems,DuraForm ProX,Polymer,,No,47,51,1740,1905,13,15,63,65,1595,1690,Shore D,73,73,,,,,0.97,,No
+3D Systems,VisiJet C4 Spectrum,Polymer,,No,24.8,24.8,1600,1600,3.6,3.6,36.5,36.5,1125,1125,Shore D,79,79,57,57,,,,,No
+3D Systems,VisiJet CF-BK,Polymer,Rubber,No,2.2,2.2,0.7,0.7,293,293,,,,,,,,,,,,,,No
+3D Systems,VisiJet CR-CL,Polymer,PC,No,58,58,2442,2442,13,13,65,65,,,Shore D,83,83,,,,,,,No
+3D Systems,VisiJet CR-WT,Polymer,ABS,No,56,56,2414,2414,8.1,8.1,66,66,,,Shore D,83,83,,,,,,,No
+3D Systems,VisiJet Dentcast,Polymer,Acrylic,No,32,32,1724,1724,12.3,12.3,45,45,,,,,,,,,,,,No
+3D Systems,VisiJet FTX Green,Polymer,,No,30,30,1700,1700,10,10,40,40,,,,,,,,,,,,No
+3D Systems,VisiJet Hi-Cast,Wax,Wax,No,,,,,,,,,,,,,,,,,,,,No
+3D Systems,VisiJet M3 Black,Polymer,,No,35.2,35.2,1594,1594,19.7,19.7,44.5,44.5,,,,,,57,57,,,,,No
+3D Systems,VisiJet M3 Crystal,Polymer,,No,42.4,42.4,1463,1463,6.83,6.83,49,49,,,,,,56,56,,,,,Yes
+3D Systems,VisiJet M3 Navy,Polymer,,No,20.5,20.5,735,735,8,8,28.1,28.1,,,,,,46,46,,,,,No
+3D Systems,VisiJet M3 Procast,Polymer,,No,32,32,1724,1724,12.3,12.3,45,45,,,,,,,,,,,,No
+3D Systems,VisiJet M3 Proplast,Polymer,,No,26.2,26.2,1108,1108,8.97,8.97,26.6,26.6,,,,,,46,46,,,,,No
+3D Systems,VisiJet M3 Techplast,Polymer,,No,22.1,22.1,866,866,6.1,6.1,28.1,28.1,,,,,,46,46,,,,,No
+3D Systems,VisiJet M3 X,Polymer,ABS,No,49,49,2168,2168,8.3,8.3,65,65,,,,,,88,88,,,,,No
+3D Systems,VisiJet M5-Black,Polymer,PP,No,32.8,32.8,1555,1555,15.4,15.4,43.8,43.8,,,,,,54,54,,,,,No
+3D Systems,VisiJet M5-MX,Polymer,,No,31,31,1267,1267,20,20,39,39,,,,,,39,39,,,,,No
+3D Systems,VisiJet M5-X,Polymer,ABS/PP,No,39.4,39.4,1925,1925,7.8,7.8,51.4,51.4,,,,,,65,65,,,,,No
+3D Systems,VisiJet Pearlstone,Polymer,Acrylic,No,40,40,1794,1794,7.7,7.7,,,,,,,,88,88,,,,,No
+3D Systems,VisiJet Prowax,Wax,Wax,No,,,,,,,,,,,,,,,,,,,,No
+3D Systems,VisiJet PXL,Composite,Gypsum,Yes,14.2,14.2,9450,9450,0.23,0.23,31.1,31.1,7163,7163,,,,,,,,,,No
+3D Systems,VisiJet PXL,Composite,Gypsum,Yes,26.4,26.4,12560,12560,0.21,0.21,44.1,44.1,10680,10680,,,,,,,,,,No
+3D Systems,VisiJet PXL,Composite,Gypsum,Yes,2.38,2.38,12855,12855,0.04,0.04,13.1,13.1,6355,6355,,,,,,,,,,No
+3D Systems,VisiJet SL Black,Polymer,ABS,No,45,45,2150,2150,5,5,76,76,2350,2350,Shore D,86,86,54,54,62,62,1.15,,No
+3D Systems,VisiJet SL Clear,Polymer,PC,No,52,52,2560,2560,6,6,83,83,2330,2330,Shore D,85,85,51,51,70,70,1.17,,Yes
+3D Systems,VisiJet SL e-Stone,Polymer,,No,38,38,1630,1630,17,17,57,57,1550,1550,Shore D,80,80,61,61,60,60,1.19,,No
+3D Systems,VisiJet SL Flex,Polymer,PP,No,38,38,1620,1620,16,16,57,57,1420,1420,Shore D,80,80,61,61,60,60,1.19,,No
+3D Systems,VisiJet SL HiTemp,Polymer,,No,66,66,3390,3390,6,6,112,112,3080,3080,Shore D,86,86,65,65,62,62,1.23,,No
+3D Systems,VisiJet SL HiTemp,Polymer,,Yes,66,66,3390,3390,6,6,112,112,3080,3080,Shore D,86,86,130,130,132,132,1.23,,No
+3D Systems,VisiJet SL Impact,Polymer,ABS/PP,No,48,48,2626,2626,14,14,74,74,2390,2390,Shore D,80,80,47,47,65,65,1.18,,No
+3D Systems,VisiJet SL Jewel,Polymer,,No,40,40,1910,1910,12,12,61,61,1824,1824,Shore D,72,72,38,38,58,58,1.18,,No
+3D Systems,VisiJet SL Tough,Polymer,ABS/PP,No,41,41,1890,1890,18,18,62,62,1850,1850,Shore D,86,86,62,62,52,52,1.19,,No
+3D Systems,VisiJet Stoneplast,Polymer,Acrylic,No,41,41,1850,1850,17,17,51,51,,,,,,56,56,,,,,Yes
+Allied Photopolymers,KZ-1860-CL,Polymer,ABS,No,52,52,2500,2500,6,10,82,82,2000,2000,Shore D,83,83,55,55,,,,,No
+Allied Photopolymers,KZ-1862-ICE,Polymer,ABS,No,52,52,2500,2500,6,10,82,82,2000,2000,Shore D,83,83,55,55,,,,,No
+Allied Photopolymers,KZ-1870-WH,Polymer,ABS,No,53,53,2100,2100,5,9,64,64,2000,2000,Shore D,80,80,50,50,,,,,No
+ALM,FR 106,Polymer,PA,No,39,46,,,21,38,,,1345,1345,,,,186,186,,,1.07,,No
+ALM,PA 250,Polymer,PA,No,36,46,1740,2137,4,16,,,,,,,,179,179,,,1.01,,No
+ALM,PA 415-GS,Composite,PA-Glass,No,40,40,2700,2700,2,3,,,3106,3106,,,,179,179,,,1.49,,No
+ALM,PA 601-CF,Composite,PA-Carbon,No,66,66,2896,2896,3.6,3.6,,,3447,3447,,,,178,178,,,1.07,,No
+ALM,PA 605-A,Composite,PA-Metal,No,37,43,3709,3709,3.3,3.3,,,3517,3517,,,,180,180,,,1.47,,No
+ALM,PA 606-FR,Polymer,PA,No,48,48,1700,1700,24,24,,,1500,1500,,,,177,177,,,,,No
+ALM,PA 614-GS,Composite,PA-Glass,No,51,51,3200,3200,9,9,,,2900,2900,,,,175,175,,,1.22,,No
+ALM,PA 615-GS,Composite,PA-Glass,No,31,31,2137,4100,1.6,1.6,,,3100,3100,,,,179,179,,,1.49,,No
+ALM,PA 616-GS,Composite,PA-Glass,No,31,31,4100,4100,1.45,1.45,,,3100,3100,,,,175,175,,,,,No
+ALM,PA 620-MF,Composite,PA-Mineral,No,52,52,5700,5700,4,4,,,4550,4550,,,,184,184,,,1.2,,No
+ALM,PA 640-GSL,Polymer,PA,No,33,49,1945,3816,3,3,,,4313,5040,,,,180,180,,,0.82,,No
+ALM,PA 650,Polymer,PA,No,48,48,1700,1700,24,24,,,1500,1500,,,,177,177,,,1.02,,No
+ALM,PA 802-CF,Composite,PA-Carbon,No,41,70,1453,6388,7,11,124,124,4978,4978,,,,186,186,,,1.11,,No
+ALM,PA 840-GSL,Polymer,PA,No,37,48,2137,3378,3,4,,,,,,,,,,,,0.87,,No
+ALM,PA 850 Black,Polymer,PA,No,42,48,1427,1475,14,51,,,,,Shore D,74,74,188,188,,,1.03,,No
+ALM,PA 850-Nat,Polymer,PA,No,48,48,1517,1517,47,47,46,46,2137,2137,,,,188,188,,,1.01,,No
+ALM,PA 860,Polymer,PA,No,42,48,1427,1475,14,51,,,,,Shore D,77,77,184,184,,,1.03,,No
+ALM,PA D80-ST,Polymer,PA,No,39,46,,,21,38,,,1345,1345,,,,,,,,,,No
+ALM,PS 200,Polymer,PS,Yes,2.84,2.84,1604,1604,,,,,,,,,,,,89,89,0.86,,No
+ALM,PS-100,Polymer,PS,No,1.5,6.5,1850,1850,1.5,1.5,,,,,,,,,,105,105,0.77,,No
+ALM,TPE 210-S,Polymer,PA,No,,,8,8,110,110,,,13,13,,,,,,,,1.03,,No
+Arcam,Arcam ASTM F75 CoCr Alloy,Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+Arcam,Arcam ASTM F75 CoCr Alloy,Metal,Cobalt,Yes,960,960,,,20,20,,,,,,,,,,,,,,No
+Arcam,Arcam Grade 2 Titanium,Metal,Titanium,Yes,570,570,,,21,21,,,,,,,,,,,,,,No
+Arcam,Arcam Ti6Al4V,Metal,Titanium,Yes,1020,1020,120000,120000,14,14,,,,,,,,,,,,,,No
+Arcam,Arcam Ti6Al4V ELI,Metal,Titanium,Yes,970,970,120000,120000,16,16,,,,,,,,,,,,,,No
+Arevo Labs,PEEK F1,Polymer,PEEK,No,93,93,3546,3546,4.7,4.7,,,,,,,,,,,,,,No
+Arevo Labs,Radel,Polymer,PPS,No,73,73,2570,2570,5.8,5.8,101,101,3973,3973,,,,,,,,,,No
+Arevo Labs,Ultem,Polymer,PEI,No,97,97,2804,2804,9.5,9.5,143,143,2926,2926,,,,,,,,,,No
+Arevo Labs,Wear Grade PEEK,Composite,PEEK-Composite,No,99,99,12640,12640,1.1,1.1,,,,,,,,,,,,,,No
+Argyle / Bolson Materials,ABS (P400),Polymer,ABS,No,32,32,2163,2163,5,5,49,49,2165,2165,,,,96,96,,,,,No
+Argyle / Bolson Materials,ABS B31 (M-TYPE),Polymer,ABS,No,36,36,2395,2395,4,4,60,60,2322,2322,,,,96,96,,,,,No
+Argyle / Bolson Materials,ABS P430,Polymer,ABS,No,37,37,2320,2320,3,3,53,53,2250,2250,,,,96,96,,,,,No
+Argyle / Bolson Materials,ABSmax,Polymer,ABS,No,32,32,2163,2163,5,5,49,49,2165,2165,,,,96,96,,,,,No
+Asiga,Plas,Polymer,ABS/PP,No,51.1,51.1,,,6.58,6.58,86.8,86.8,1910,1910,Shore D,82,82,,,84,84,1.18,,No
+Asiga,PlasCLEAR,Polymer,ABS/PP,No,52.6,52.6,,,6.88,6.88,87.3,87.3,1915,1915,Shore D,79,79,,,83,83,1.18,,No
+Asiga,SuperCAST,Wax,Wax,No,,,,,,,,,,,,,,,,,,,,No
+Asiga,SuperCAST v3,Wax,Wax,No,,,,,,,,,,,,,,,,,,,,No
+CMET,HS-680,Polymer,Epoxy,No,80,80,2380,2380,3,3,100,100,3200,3200,Shore D,85,87,,,,,,,No
+CMET,HS-680,Polymer,Epoxy,Yes,,,,,,,,,,,,,,,,,,,,No
+CMET,HS-690,Polymer,Epoxy,No,65,65,2200,2200,5,6,80,80,2450,2450,Shore D,82,85,,,,,,,No
+CMET,HS-696,Polymer,Epoxy,No,64,64,2300,2300,6,7,84,84,2500,2500,Shore D,83,86,,,,,,,No
+CMET,TSR-510,Polymer,Silicone,No,1.7,1.7,1.1,1.1,130,130,,,,,Shore A,50,50,,,,,,,No
+CMET,TSR-821,Polymer,Epoxy,No,49,49,1800,1800,13,15,70,70,2225,2225,Shore D,80,82,55,56,,,,,No
+CMET,TSR-829,Polymer,Epoxy,No,44,44,1670,1670,8,8,68,68,1840,1840,Shore D,83,83,53,53,,,,,No
+CMET,TSR-831,Polymer,Epoxy,No,39,39,1600,1600,14,14,62,62,1650,1650,Shore D,80,80,48,48,,,,,No
+CMET,TSR-832,Polymer,Epoxy,No,51,51,2000,2000,8,8,80,80,2300,2300,Shore D,84,84,59,59,,,,,No
+CMET,TSR-839,Polymer,Epoxy,No,26,26,1380,1380,19,19,47,47,1430,1430,Shore D,79,79,49,49,,,,,No
+CMET,TSR-880,Polymer,Epoxy,No,53,53,1850,1850,9,9,78,78,2350,2350,Shore D,80,82,52,52,,,,,No
+CMET,TSR-883,Polymer,Epoxy,No,60,60,2730,2730,5,8,98,98,2710,2710,Shore D,84,84,59,59,,,,,No
+CMET,TSR-884B,Polymer,Epoxy,No,51,51,2370,2370,3,12,87,87,2260,2260,Shore D,87,87,58,58,,,,,No
+CMET,TSR-884B,Polymer,Epoxy,Yes,50,50,2090,2090,4.4,4.4,79,79,2080,2080,Shore D,86,86,117,117,,,,,No
+CMET,TSR-890,Polymer,Epoxy,No,43,43,2120,2120,12,12,66,66,1710,1710,Shore D,81,81,49,49,,,,,No
+Concept Laser,CL 100NB (Inconel 718),Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+Concept Laser,CL 110CoCr (Cobalt-chromium alloy F75),Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+Concept Laser,CL 20ES (Stainless steel 1.4404),Metal,Steel,No,570,570,200000,200000,15,15,,,,,,,,,,,,,,No
+Concept Laser,CL 30AL (AlSi12),Metal,Aluminum,No,310,325,75000,75000,2,3,,,,,,,,,,,,,,No
+Concept Laser,CL 31AL (AlSi10Mg),Metal,Aluminum,No,310,325,75000,75000,2,3,,,,,,,,,,,,,,No
+Concept Laser,CL 40TI (TiAl6V4),Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+Concept Laser,CL 40TI ELI (TiAl6V4 ELI),Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+Concept Laser,CL 50WS (Hot-work steel 1.2709),Metal,Steel,No,1650,1650,200000,200000,2,3,,,,,,,,,,,,,,No
+Concept Laser,CL 80CU (Bronze),Metal,Bronze,No,,,,,,,,,,,,,,,,,,,,No
+Concept Laser,CL 91RW (Stainless hot-work steel),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Concept Laser,Remanium star CL,Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+Concept Laser,Silver alloy (930 sterling),Metal,Silver,No,,,,,,,,,,,,,,,,,,,,No
+Concept Laser,Yellow gold (18 carat),Metal,Gold,No,,,,,,,,,,,,,,,,,,,,No
+Cookson Gold,18K 3N Yellow Gold,Metal,Gold,Yes,,,,,,,,,,,,,,,,,,15.5,,No
+Cookson Gold,18K 5N Rose Gold,Metal,Gold,Yes,,,,,,,,,,,,,,,,,,15.2,,No
+CRP Technology,Windform EL,Composite,PA-Glass,No,52.4,52.4,5058,5058,3.19,3.19,86.74,86.74,4114,4114,,,,,,,,1.25,,No
+CRP Technology,Windform FX,Polymer,PA,No,48.96,48.96,1357,1357,43.9,43.9,45,45,952.2,952.2,,,,,,,,1.03,,No
+CRP Technology,Windform GF 2.0,Composite,PA-Glass,No,50.6,50.6,4304,4304,4.6,4.6,80.2,80.2,3430,3430,,,,,,,,1.41,,No
+CRP Technology,Windform GT,Composite,PA-Glass,No,56.21,56.21,3289.8,3289.8,14.82,14.82,87.9,87.9,3227,3227,,,,,,,,1.19,,No
+CRP Technology,Windform LX 2.0,Polymer,PA,No,59.9,59.9,6248,6248,2.3,2.3,92.2,92.2,4860,4860,,,,,,,,1.31,,No
+CRP Technology,Windform PS,Polymer,PS,No,,,,,,,,,,,,,,,,86.5,88.5,,,No
+CRP Technology,Windform SP,Composite,PA-Carbon,No,76.1,76.1,6219.6,6219.6,11.38,11.38,120.08,120.08,4647.4,4647.4,,,,,,,,1.11,,No
+CRP Technology,Windform XT 2.0,Composite,PA-Carbon,No,83.84,83.84,8928.2,8928.2,3.8,3.8,133,133,7338.2,7338.2,,,,,,,,1.1,,No
+Diamond Plastics,Laser HDPE HX 17,Polymer,,No,21,21,2000,2000,5.5,5.5,,,,,,,,,,,,0.97,,No
+Diamond Plastics,Laser PP CP 22,Polymer,,No,25,25,2500,2500,8,8,,,,,,,,,,,,0.92,,No
+D-MEC,SCR11120,Polymer,Epoxy,No,47,47,2650,2650,20,20,63,63,2040,2040,Shore D,81,81,46,46,43,43,,,No
+D-MEC,SCR701,Polymer,Epoxy,No,75,75,3300,3300,6,6,104,104,3100,3100,Shore D,87,87,53,53,82,82,,,No
+D-MEC,SCR710,Polymer,Epoxy,No,66,66,2700,2700,10,10,85,85,2500,2500,Shore D,81,81,49,49,78,78,,,No
+D-MEC,SCR735,Polymer,Epoxy,No,45,45,2510,2510,6.8,6.8,83,83,2530,2530,,,,48,48,90,90,,,No
+D-MEC,SCR735,Polymer,Epoxy,Yes,67,67,2720,2720,6,6,97,97,2570,2570,,,,85,85,110,110,,,No
+D-MEC,SCR740,Polymer,Epoxy,No,62,62,3000,3000,3,3,110,110,2800,2800,,,,100,100,135,135,,,No
+D-MEC,SCR751,Polymer,Epoxy,No,80,80,3400,3400,5,5,115,115,3300,3300,Shore D,88,88,56,56,108,108,,,No
+D-MEC,SCR802,Polymer,Epoxy,No,85,85,9200,9200,2,2,120,120,8900,8900,Shore D,92,92,250,250,133,133,,,No
+D-MEC,SCR9100,Polymer,Epoxy,No,28,32,1100,1400,14,17,42,62,1200,1500,,,,60,65,,,,,No
+D-MEC,SCR9120,Polymer,Epoxy,No,30,32,1200,1500,15,25,41,46,1300,1500,,,,52,61,,,,,No
+D-MEC,SCR950,Polymer,Oxycetane,No,51,51,2000,2000,8,8,75,75,2600,2600,Shore D,85,85,64,64,121,121,,,No
+Dreve,PLASTCure Cast 100,Polymer,,No,,,,,,,81,85,2900,2950,Shore D,81,85,,,,,,,No
+Dreve,PLASTCure Clear 100,Polymer,,No,,,,,8,10,90,115,1700,2200,Shore D,80,84,,,,,,,No
+Dreve,PLASTCure Flex 100,Polymer,,No,,,,,90,95,,,,,Shore A,70,80,,,,,,,No
+Dreve,PLASTCure Model 100,Polymer,,No,,,,,8,10,90,115,1700,2200,Shore D,80,84,,,,,,,No
+DSM Somos,PLASTCure ABS 3650,Polymer,ABS,No,49,56,3550,3650,4,8,80,85,2300,2500,Shore D,84,85,55,58,,,,,No
+DSM Somos,PLASTCure Rigid 10 500,Polymer,,No,38,42,10000,11000,0.5,1,145,155,10000,11000,Shore D,92,96,,,,,,,No
+DSM Somos,Somos 14120,Polymer,ABS/PBT,Yes,45.7,45.7,2460,2460,8,8,68.9,68.9,2250,2250,Shore D,81,81,53,53,44,44,,,No
+DSM Somos,Somos 9110,Polymer,PP,Yes,31,31,1590,1590,,,44,44,1450,1450,Shore D,83,83,,,,,,,No
+DSM Somos,Somos 9120,Polymer,PP,Yes,30,32,1227,1462,,,44,46,1310,1455,Shore D,80,82,,,,,,,No
+DSM Somos,Somos 9420,Polymer,PP,Yes,17,20,553,850,,,24,30,768,900,Shore D,70,74,47,50,57,60,,,No
+DSM Somos,Somos BioClear,Polymer,,Yes,47.1,53.6,2650,2880,11,20,63.1,74.2,2040,2370,,,,45.9,54.5,39,46,,,No
+DSM Somos,Somos GP Plus 14122,Polymer,ABS/PBT,Yes,33.8,40.2,2370,2650,6,9,66.8,67.8,2178,2222,Shore D,79,79,46,46,41,43,,,No
+DSM Somos,Somos NanoTool,Polymer,,Yes,61.7,78,11000,11400,0.7,1,79,121,10200,10800,Shore D,94,94,225,225,57,62,,,No
+DSM Somos,Somos NanoTool,Polymer,,Yes,66.3,80.3,10400,11200,0.7,1,103,149,9960,10200,Shore D,94,94,258,263,86,89,,,No
+DSM Somos,Somos NeXt,Polymer,,Yes,31,34.6,2370,2490,8,10,67.8,70.8,2415,2525,Shore D,82,82,55,57,43,47,,,No
+DSM Somos,Somos NeXt LV,Polymer,ABS,Yes,,,2970,3285,4.6,7.2,0.05,0.07,1843,2017,Shore D,84,84,53,57,40,48,,,No
+DSM Somos,Somos PerFORM,Polymer,,Yes,68,68,10500,10500,1.1,1.1,120,120,10000,10000,Shore D,94,94,,,72,72,,,No
+DSM Somos,Somos PerFORM,Polymer,,Yes,80,80,9800,9800,1.2,1.2,146,146,9030,9030,Shore D,93,93,,,81,81,,,No
+DSM Somos,Somos ProtoCast 19122,Polymer,,Yes,44.5,45.3,2013,2187,6,6,73,76,2135,2265,Shore D,84,86,59,59,49,49,,,No
+DSM Somos,Somos ProtoGen 18120,Polymer,ABS,Yes,51.7,54.9,2620,2740,6,12,81.8,83.8,2360,2480,Shore D,84,85,55,58,71,86,,,No
+DSM Somos,Somos ProtoGen 18120,Polymer,ABS,Yes,56.9,57.1,2540,2620,8,12,83.8,86.7,2400,2450,,,,,,,,,,No
+DSM Somos,Somos ProtoGen 18120,Polymer,ABS,Yes,68.8,69.2,2910,2990,7,8,88.5,91.5,2330,2490,Shore D,87,88,95,97,76,94,,,No
+DSM Somos,Somos ProtoGen 18420,Polymer,ABS,Yes,42.2,43.8,2180,2310,8,16,66.7,70.5,1990,2130,Shore D,86,88,53,56,57,59,,,No
+DSM Somos,Somos ProtoGen 18420,Polymer,ABS,Yes,56.9,57.1,2540,2620,8,12,83.8,86.7,2400,2450,,,,,,,,,,No
+DSM Somos,Somos ProtoGen 18420,Polymer,ABS,Yes,66.1,68.1,2880,2960,6,9,84.9,87.7,2280,2340,Shore D,86,87,93,98,78,96,,,No
+DSM Somos,Somos ProtoGen 18920,Polymer,ABS,Yes,46.6,47.8,2103,2317,13,19,73,75,2126,2314,Shore D,85,86,58.7,58.7,69,69,,,No
+DSM Somos,Somos ProtoGen 18920,Polymer,ABS,Yes,56.1,56.9,2577,2623,5,12,85,87,2442,2518,Shore D,86,87,,,,,,,No
+DSM Somos,Somos ProtoGen 18920,Polymer,ABS,Yes,69.2,69.6,2544,2916,4,9,92.1,98.1,2504,2696,Shore D,86,88,97.5,97.5,97.5,97.5,,,No
+DSM Somos,Somos ProtoTherm 12110,Polymer,,Yes,57.6,57.6,3430,3430,5,5,108,108,3350,3350,Shore D,84.5,84.5,52.9,52.9,59.3,59.3,,,No
+DSM Somos,Somos ProtoTherm 12110,Polymer,,Yes,65.5,65.5,2950,2950,3.8,3.8,98,98,2730,2730,Shore D,86.4,86.4,154.9,154.9,135.1,135.1,,,No
+DSM Somos,Somos ProtoTherm 12120,Polymer,,Yes,70.2,70.2,3520,3520,4,4,109,109,3320,3320,Shore D,85.3,85.3,56.5,56.5,74,74,,,No
+DSM Somos,Somos ProtoTherm 12120,Polymer,,Yes,77,77,3250,3250,4.5,4.5,103,103,3060,3060,Shore D,86.7,86.7,126.2,126.2,111,111,,,No
+DSM Somos,Somos WaterClear Ultra 10122,Polymer,ABS/Acrylic,Yes,55,56,2860,2900,6,9,82,85,2410,2570,Shore D,86,87,46,47,42,46,,,No
+DSM Somos,Somos WaterShed XC 11122,Polymer,ABS/PBT,Yes,47.1,53.6,2650,2880,11,20,63.1,74.2,2040,2370,,,,45.9,54.5,39,46,,,No
+DWS Systems,DC100,Wax,Wax,No,,,,,,,18.6,18.6,286,286,Shore D,74,74,,,,,,,No
+DWS Systems,DC300,Wax,Wax,No,,,,,,,14.2,14.2,280,280,Shore D,64,64,,,,,,,No
+DWS Systems,DC400,Wax,Wax,No,,,,,,,9.8,9.8,267,267,Shore D,57,57,,,,,,,No
+DWS Systems,DC500,Wax,Wax,No,,,,,,,5.2,5.2,95,95,Shore D,48,48,,,,,,,No
+DWS Systems,DC550,Wax,Wax,No,,,,,,,5.3,5.3,130,130,Shore D,47,47,,,,,,,No
+DWS Systems,DC600,Wax,Wax,No,,,,,,,6.9,6.9,172,172,Shore D,54,54,,,,,,,No
+DWS Systems,DL260,Polymer,,No,,,,,,,73.1,73.1,1820,1820,Shore D,88,88,,,,,,,No
+DWS Systems,DL350,Polymer,PP,No,,,,,,,56,56,1609,1609,Shore D,80,80,58.1,58.1,,,,,No
+DWS Systems,DL360,Polymer,,No,,,,,,,76,76,1670,1670,Shore D,86,86,53,53,,,,,No
+DWS Systems,DM210,Polymer,,No,,,,,,,77.8,77.8,2510,2510,Shore D,87,87,,,,,,,No
+DWS Systems,DM220,Polymer,,No,,,,,,,102,102,7300,7300,Shore D,94,94,,,,,,,No
+DWS Systems,DS2000,Polymer,,No,30,30,1340,1340,7,7,94.6,94.6,2105,2105,Shore D,87,87,55,55,,,,,No
+DWS Systems,DS3000,Polymer,,No,30,30,1340,1340,7,7,94.6,94.6,2105,2105,Shore D,87,87,55,55,,,,,No
+DWS Systems,RD095,Polymer,,No,,,,,,,61.7,61.7,1478,1478,Shore D,86,86,,,,,,,No
+DWS Systems,RD096,Polymer,,No,,,,,,,85.5,85.5,3120,3120,Shore D,92,92,85,85,,,,,No
+DWS Systems,RF065,Wax,Wax,No,,,,,,,18.6,18.6,286,286,Shore D,74,74,,,,,,,No
+DWS Systems,RF068,Wax,Wax,No,,,,,,,24.1,24.1,431,431,Shore D,76,76,,,,,,,No
+DWS Systems,RF080,Wax,Wax,No,,,,,,,45.9,45.9,1054,1054,Shore D,80,80,,,,,,,No
+EnvisionTEC,ABflex,Polymer,ABS,No,28.6,28.6,,,14.6,14.6,1400,1400,,,Shore D,77,77,,,,,,,No
+EnvisionTEC,ABS 3SP,Polymer,ABS,No,35.6,35.6,1500,1500,3.7,3.7,81,81,2290,2290,Shore D,85,85,70,70,,,,,No
+EnvisionTEC,ABS 3SP Flex,Polymer,ABS,No,,,,,,,,,,,,,,,,,,,,No
+EnvisionTEC,ABS 3SP Superflex,Polymer,ABS,No,,,,,,,,,,,,,,,,,,,,No
+EnvisionTEC,ABS 3SP Tough,Polymer,ABS,No,,,,,,,,,,,,,,,,,,,,No
+EnvisionTEC,ABS-tuff,Polymer,ABS,No,48.6,48.6,,,7,7,2100,2100,,,Shore D,83,83,,,,,,,No
+EnvisionTEC,Clear Guide,Polymer,,No,51.6,51.6,,,6.62,6.62,88.4,88.4,1920,1920,Shore D,85,85,,,86,160,1.19,,No
+EnvisionTEC,Clear Guide M,Polymer,,No,51.6,51.6,,,6.62,6.62,88.4,88.4,1920,1920,Shore D,85,85,,,86,160,1.19,,No
+EnvisionTEC,D3 M,Polymer,ABS,No,28.2,28.2,2585.5,2585.5,1.3,1.3,50.1,50.1,1868.5,1868.5,Shore D,88,88,83,83,,,,,No
+EnvisionTEC,Easy Cast EC500,Wax,Wax,No,,,,,,,,,,,,,,,,,,,,No
+EnvisionTEC,Easy Cast EC500 M,Wax,Wax,No,,,,,,,,,,,,,,,,,,,,No
+EnvisionTEC,E-Denstone,Ceramic,Gypsum,No,56,56,,,3.5,3.5,115,115,3350,3350,,,,140,140,,,,,No
+EnvisionTEC,E-Denstone 3SP,Polymer,,No,56,56,,,3.5,3.5,115,115,3350,3350,,,,140,140,,,,,No
+EnvisionTEC,E-Denstone M,Ceramic,Gypsum,No,56,56,,,3.5,3.5,115,115,3350,3350,,,,140,140,,,,,No
+EnvisionTEC,E-Dent,Polymer,,No,30,30,4400,4400,,,90,90,,,,,,,,,,,,No
+EnvisionTEC,E-Dent M,Polymer,,No,30,30,4400,4400,,,90,90,,,,,,,,,,,,No
+EnvisionTEC,E-Glass 3SP,Polymer,,Yes,48,48,1950,1950,3,3,79,79,2860,2860,,,,,,,,,,No
+EnvisionTEC,E-Glass 3SP,Polymer,,Yes,21,21,2000,2000,1.15,1.15,75,75,3240,3240,,,,,,,,,,No
+EnvisionTEC,E-Partial,Polymer,,No,57,57,,,3.6,3.6,129,129,3155,3155,Shore D,89,89,130,130,,,,,No
+EnvisionTEC,E-Shell 200 M Series,Polymer,ABS,No,57.8,57.8,2400,2400,6,6,103,103,2300,2300,,,,,,109,109,,,No
+EnvisionTEC,E-Shell 200 Series,Polymer,ABS,No,57.8,57.8,2400,2400,6,6,103,103,2300,2300,,,,,,109,109,,,No
+EnvisionTEC,E-Shell 300 M Series,Polymer,,Yes,51.6,51.6,,,6.62,6.62,88.4,88.4,1920,1920,Shore D,85,85,,,86,160,1.19,,No
+EnvisionTEC,E-Shell 300 Series,Polymer,,Yes,51.6,51.6,,,6.62,6.62,88.4,88.4,1920,1920,Shore D,85,85,,,86,160,1.19,,No
+EnvisionTEC,E-Shell 500 Series,Polymer,,Yes,,,,,,,,,,,Shore A,87,87,,,,,,,No
+EnvisionTEC,HTM140,Polymer,,No,56,56,,,3.5,3.5,115,115,3350,3350,,,,,,,,,,No
+EnvisionTEC,HTM140 M,Polymer,,No,56,56,,,3.5,3.5,115,115,3350,3350,,,,,,,,,,No
+EnvisionTEC,LS600,Polymer,,No,60,60,1800,1800,4.39,4.39,,,,,Shore D,85,85,57,57,61,61,1.1,,No
+EnvisionTEC,LS600 M,Polymer,,No,60,60,1800,1800,4.39,4.39,,,,,Shore D,85,85,57,57,61,61,1.1,,No
+EnvisionTEC,Ortho Tough 3SP,Polymer,,Yes,32,32,1104,1104,10,10,62,62,1363,1363,,,,,,,,,,No
+EnvisionTEC,Ortho Tough 3SP,Polymer,,Yes,53.8,53.8,1480,1480,6.8,6.8,90,90,2064,2064,,,,,,,,,,No
+EnvisionTEC,Photosilver (RCP130),Composite,,No,,,,,,,,,,,,,,,,,,,,No
+EnvisionTEC,PIC100,Polymer,,No,16.8,16.8,,,7.46,7.46,23,23,404,404,Shore D,69,69,,,,,1.18,,No
+EnvisionTEC,PIC100 M,Polymer,,Yes,16.8,16.8,,,7.46,7.46,23,23,404,404,Shore D,69,69,,,,,1.18,,No
+EnvisionTEC,PIC100G,Polymer,,No,16.8,16.8,,,7.46,7.46,23,23,404,404,Shore D,69,69,,,,,1.18,,No
+EnvisionTEC,PIC100G M,Polymer,,Yes,16.8,16.8,,,7.46,7.46,23,23,404,404,Shore D,69,69,,,,,1.18,,No
+EnvisionTEC,Press-E-Cast,Composite,,No,56,56,,,3.5,3.5,115,115,3350,3350,,,,,,,,,,No
+EnvisionTEC,Press-E-Cast M,Composite,,No,56,56,,,3.5,3.5,115,115,3350,3350,,,,,,,,,,No
+EnvisionTEC,R11,Polymer,PP,No,50,50,1245,1510,8,8,75,75,2450,2450,Shore D,85,85,,,,,,,No
+EnvisionTEC,R5,Polymer,PP,No,31,39,1245,1510,11,25,40,45,1190,1383,Shore D,81,81,84.5,102.6,37,52,,,No
+EnvisionTEC,R5 Gray,Polymer,,No,49.7,49.7,,,5.24,5.24,79.7,79.7,1960,1960,Shore D,89,89,84.5,102.6,120,150,1.22,,No
+EnvisionTEC,RC31,Composite,,No,35.4,35.4,4890,4890,2.5,2.5,102,102,3860,3860,Shore D,93.1,93.1,67,67,42,42,,,No
+EnvisionTEC,RC70,Composite,,No,39,39,,,2.9,2.9,106,106,3760,3760,,,,93,93,,,,,No
+EnvisionTEC,RC90,Composite,,No,38,38,,,2.7,2.7,104,104,3800,3800,,,,73,73,,,,,No
+EnvisionTEC,RCP30,Composite,,No,46,46,,,2.5,2.5,102,102,3860,3860,Shore D,93.1,93.1,67,67,,,,,No
+EnvisionTEC,Superflex,Polymer,PP,Yes,53.8,53.8,1480,1480,6.8,6.8,90,90,2064,2064,,,,,,,,,,No
+EnvisionTEC,Superflex,Polymer,PP,No,32,32,1104,1104,10,10,62,62,1363,1363,,,,,,,,,,No
+EnvisionTEC,Superflex 3SP,Polymer,PP,No,53.8,53.8,1480,1480,6.8,6.8,90,90,2064,2064,,,,,,,,,,No
+EnvisionTEC,Superflex M,Polymer,PP,No,53.8,53.8,1480,1480,6.8,6.8,90,90,2064,2064,,,,,,,,,,No
+EnvisionTEC,WIC100G,Composite,,Yes,14.8,14.8,,,6.3,6.3,,,,,Shore D,80,80,,,,,1.32,,No
+EOS,Alumide,Composite,PA-Metal,No,48,48,3800,3800,4,4,72,72,3600,3600,Shore D,76,76,175,175,,,1.36,,No
+EOS,CarbonMide,Composite,PA-Carbon,No,25,72,2200,6100,1.3,6.3,,,,,,,,,,,,1.04,,No
+EOS,Ceramics 5.2,Sand,Silicate,No,,,,,,,,,,,,,,,,,,,,No
+EOS,EOS Aluminum AlSi10Mg,Metal,Aluminum,No,440,480,60000,85000,4,11,,,,,,,,,,,,2.67,,No
+EOS,EOS Aluminum AlSi10Mg,Metal,Aluminum,Yes,335,360,50000,80000,9,14,,,,,,,,,,,,,,No
+EOS,EOS CobaltChrome MP1,Metal,Cobalt,No,1050,1450,,,8,28,,,170000,220000,,,,,,,,8.3,,No
+EOS,EOS CobaltChrome MP1,Metal,Cobalt,Yes,1000,1200,,,20,20,,,180000,220000,,,,,,,,,,No
+EOS,EOS CobaltChrome SP2,Metal,Cobalt,Yes,1350,1350,200000,200000,3,3,,,,,,,,,,,,8.5,,No
+EOS,EOS Maraging Steel MS1,Metal,Steel,No,1000,1200,130,185,6,14,,,,,,,,,,,,8,,No
+EOS,EOS Maraging Steel MS1,Metal,Steel,Yes,1930,2150,160,200,2,6,,,,,,,,,,,,,,No
+EOS,EOS NickelAlloy HX,Metal,Nickel,No,680,890,155000,215000,21,47,,,,,,,,,,,,8.2,,No
+EOS,EOS NickelAlloy HX,Metal,Nickel,Yes,650,770,170000,220000,39,58,,,,,,,,,,,,,,No
+EOS,EOS NickelAlloy IN625,Metal,Nickel,No,850,1040,120000,190000,30,47,,,,,,,,,,,,8.4,,No
+EOS,EOS NickelAlloy IN625,Metal,Nickel,Yes,827,1140,140000,190000,30,49,,,,,,,,,,,,,,No
+EOS,EOS NickelAlloy IN718,Metal,Nickel,No,930,1100,140000,180000,22,36,,,,,,,,,,,,8.15,,No
+EOS,EOS NickelAlloy IN718,Metal,Nickel,Yes,1241,1500,150000,190000,12,18,,,,,,,,,,,,,,No
+EOS,EOS NickelAlloy IN718,Metal,Nickel,Yes,1241,1480,150000,190000,12,18,,,,,,,,,,,,,,No
+EOS,EOS NickelAlloy IN718,Metal,Nickel,Yes,965,1220,,,6,19,,,,,,,,,,,,,,No
+EOS,EOS NickelAlloy IN718,Metal,Nickel,Yes,1160,1260,,,17,23,,,,,,,,,,,,,,No
+EOS,EOS PEEK HP3,Polymer,PEEK,No,90,90,4250,4250,2.8,2.8,133,133,4100,4100,,,,,,163,163,1.31,V-0,No
+EOS,EOS StainlessSteel 316L,Metal,Steel,No,485,690,180000,185000,25,70,,,,,,,,,,,,7.9,,No
+EOS,EOS StainlessSteel GP1,Metal,Steel,No,850,1100,140000,200000,25,40,,,,,,,,,,,,7.8,,No
+EOS,EOS StainlessSteel GP1,Metal,Steel,Yes,980,1100,180000,180000,29,31,,,,,,,,,,,,,,No
+EOS,EOS StainlessSteel PH1,Metal,Steel,No,1000,1200,,,12,21,,,,,,,,,,,,7.8,,No
+EOS,EOS StainlessSteel PH1,Metal,Steel,Yes,1310,1550,,,10,14,,,,,,,,,,,,,,No
+EOS,EOS Titanium Ti64,Metal,Titanium,No,1150,1280,100000,120000,8,14,,,,,,,,,,,,4.41,,No
+EOS,EOS Titanium Ti64,Metal,Titanium,Yes,930,1080,104000,126000,10,16,,,,,,,,,,,,,,No
+EOS,EOS Titanium Ti64ELI,Metal,Titanium,No,1200,1300,88000,128000,4,11,,,,,,,,,,,,4.41,,No
+EOS,EOS Titanium Ti64ELI,Metal,Titanium,Yes,860,1110,91000,135000,10,19,,,,,,,,,,,,,,No
+EOS,PA 1101,Polymer,PA,No,48,48,1600,1600,30,45,,,,,Shore D,75,75,154,159,,,0.99,,No
+EOS,PA 1102 Black,Polymer,PA,No,48,48,1560,1610,45,45,,,,,,,,,,,,0.99,,No
+EOS,PA 2105,Polymer,PA,No,54,54,1800,1850,15,20,,,,,Shore D,75,75,,,,,0.95,,No
+EOS,PA 2200,Polymer,PA,No,38,45,1500,1500,0.03,0.18,,,1500,1500,Shore D,75,75,,,,,0.93,,No
+EOS,PA 2200,Polymer,PA,No,42,48,1550,1600,4,18,,,1500,1500,Shore D,75,75,,,,,0.93,,No
+EOS,PA 2200,Polymer,PA,No,50,50,1700,1700,10,20,,,1500,1500,Shore D,75,75,,,,,0.93,,No
+EOS,PA 2200,Polymer,PA,No,52,52,1750,1800,0.07,0.2,,,1500,1500,Shore D,75,75,,,,,0.93,,FALSE
+EOS,PA 2201,Polymer,PA,No,48,48,1700,1700,15,15,58,58,1500,1500,Shore D,75,75,,,,,0.93,,No
+EOS,PA 2202 Black,Polymer,PA,No,48,50,1800,1850,6,12,53,53,1350,1350,Shore D,75,75,154,154,,,0.98,,No
+EOS,PA 2210 FR,Polymer,PA,No,38,46,2200,2500,3,7,65,65,2300,2300,,,,,,,,1.06,V-0,No
+EOS,PA 3200 GF,Composite,PA-Glass,No,47,51,2500,3200,5.5,9,73,73,2900,2900,Shore D,80,80,157,157,,,1.22,,No
+EOS,PrimeCast 101,Polymer,PS,No,5.5,5.5,1600,1600,0.4,0.4,,,,,,,,,,105,105,0.77,,No
+EOS,PrimePart FR PA 2241 FR,Polymer,PA,No,41,49,1600,1900,6,22,,,,,,,,84,,,,1,,No
+EOS,PrimePart Plus PA 2221,Polymer,PA,No,40,47,1600,1650,4,16,54,59,1340,1390,Shore D,75,75,148,157,,,0.97,,No
+EOS,PrimePart ST PEBA 2301,Polymer,TPE,No,7,8,75,80,70,200,,,,,,,,,,,,0.95,,No
+EOS,Quartz 4.2,Sand,Silicate,No,,,,,,,,,,,,,,,,,,,,No
+EOS,Quartz 5.7,Sand,Silicate,No,,,,,,,,,,,,,,,,,,,,No
+EOS,Quartz 5.7,Sand,Silicate,Yes,,,,,,,,,,,,,,,,,,,,No
+ExcelTec,Innov'PA 1350_Etx,Polymer,PA,No,38,47,1200,1500,18,50,,,1175,1325,Shore D,73,77,,,,,1.02,,No
+ExcelTec,Innov'PA 1450_Etx,Polymer,PA,No,38,47,1300,1600,18,50,,,1245,1355,Shore D,72,76,183,187,,,1.02,,No
+ExcelTec,Innov'PA 1550_Xs,Polymer,PA,No,43,45,1400,1700,13,17,,,1325,1375,Shore D,65,71,,,32,36,0.98,,No
+ExcelTec,Innov'PA 1550_Xs,Polymer,PA,Yes,,,,,,,,,,,,,,,,,,,,
+ExcelTec,Innov'PA 2550_GBAL,Polymer,PA,No,29,31,2450,2650,7,9,,,2250,2300,Shore D,75,79,,,,,1.35,,No
+ExcelTec,Innov'PA 2550_GBAL,Polymer,PA,Yes,,,,,,,,,,,,,,,,,,,,
+ExcelTec,Innov'PA 3450_GBx,Polymer,PA,No,28,35,3300,3600,6,15,,,2200,2400,,,,,,,,1.4,,No
+ExOne,316 Stainless Steel Infiltrated with Bronze,Metal,Steel,No,407,407,148000,148000,8,8,,,,,,,,,,,,7.86,,No
+ExOne,420 Stainless Steel Infiltrated with Bronze,Metal,Steel,No,682,682,147000,147000,2.3,2.3,,,,,,,,,,,,7.86,,No
+ExOne,420 Stainless Steel Infiltrated with Bronze,Metal,Steel,Yes,496,496,147000,147000,7,7,,,,,,,,,,,,7.86,,No
+ExOne,Alloy IN 625,Metal,Nickel,No,676,669,193,200,41,51,,,,,,,,,,,,8.35,,No
+ExOne,Alloy IN 625,Metal,Nickel,Yes,717,717,214,221,34,57,,,,,,,,,,,,8.49,,No
+ExOne,FS 001 ExOne silica sand,Sand,Silicate,No,,,,,,,,,,,,,,,,,,,,No
+ExOne,FS 003 ExOne silica sand for higher core permeability,Sand,Silicate,No,,,,,,,,,,,,,,,,,,,,No
+ExOne,FS 005 ExOne silica sand,Sand,Silicate,No,,,,,,,,,,,,,,,,,,,,No
+ExOne,FS 052 ExOne synthetic sand,Sand,Silicate,No,,,,,,,,,,,,,,,,,,,,No
+ExOne,Iron Infiltrated with Bronze,Metal,Iron,No,407,407,131000,131000,17,17,,,,,,,,,,,,8.04,,No
+Fabrisonic,Aluminum 1100-H18,Metal,Aluminum,No,150,165,68900,68900,1,4,,,,,,,,,,,,2.71,,No
+Fabrisonic,Aluminum 2219-O,Metal,Aluminum,No,172,220,73100,73100,12,18,,,,,,,,,,,,2.84,,No
+Fabrisonic,Aluminum 3003-H18,Metal,Aluminum,No,185,200,68900,68900,4,10,,,,,,,,,,,,2.73,,No
+Fabrisonic,Aluminum 5052-O,Metal,Aluminum,No,193,193,70300,70300,25,30,,,,,,,,,,,,2.68,,No
+Fabrisonic,Aluminum 6061-O,Metal,Aluminum,No,124,124,68900,68900,25,30,,,,,,,,,,,,2.7,,No
+Fabrisonic,Aluminum 6061-T4,Metal,Aluminum,No,241,241,68900,68900,22,25,,,,,,,,,,,,2.7,,No
+Fabrisonic,Aluminum 7050-T7651,Metal,Aluminum,No,552,552,71700,71700,5,11,,,,,,,,,,,,2.83,,No
+Fabrisonic,Aluminum 7075-T6,Metal,Aluminum,No,510,572,71700,71700,7,11,,,,,,,,,,,,2.81,,No
+Fabrisonic,EPT Copper 110 (1/2 Hard),Metal,Copper,No,255,317,117000,117000,8,32,,,,,,,,,,,,8.9,,No
+Fabrisonic,Pure Copper (99.9),Metal,Copper,No,,,,,,,,,,,,,,,,,,8.9,,No
+Fabrisonic,Pure Gold,Metal,Gold,No,120,120,77200,77200,30,30,,,,,,,,,,,,19.32,,No
+Fabrisonic,Stainless Steel 304,Metal,Steel,No,505,505,193000,200000,70,70,,,,,,,,,,,,8,,No
+Fabrisonic,Stainless Steel 304,Metal,Steel,No,505,505,193000,200000,70,70,,,,,,,,,,,,8,,No
+Fabrisonic,Stainless Steel 309,Metal,Steel,No,620,620,200000,200000,45,45,,,,,,,,,,,,8,,No
+Fabrisonic,Stainless Steel 309,Metal,Steel,No,620,620,200000,200000,45,45,,,,,,,,,,,,8,,No
+Fabrisonic,Stainless Steel 316,Metal,Steel,No,515,515,193000,193000,40,40,,,,,,,,,,,,8.91,,No
+Fabrisonic,Sterling Silver (30% Cold Work),Metal,Silver,No,385,385,75000,75000,5,5,,,,,,,,,,,,10.4,,No
+Fabrisonic,Tantalum (Cold Worked),Metal,Refractory metal,No,900,900,186000,186000,,,,,,,,,,,,,,16.65,,No
+Fabrisonic,Ti3Al2.5V (Grade 9),Metal,Titanium,No,620,620,100000,100000,15,15,,,,,,,,,,,,4.48,,No
+Fabrisonic,Titanium CP,Metal,Titanium,No,725,725,105000,120000,16,16,,,,,,,,,,,,4.51,,No
+Hunan Farsoon,FS3200PA,Polymer,PA,No,48.1,48.1,1646,1646,38,38,43.5,43.5,1431,1431,,,,145.8,145.8,,,0.95,,No
+Hunan Farsoon,FS3250MF,Composite,PA-Mineral,No,51,51,6130,6130,5,5,76,76,4633,4633,,,,,,,,1.2,,No
+Hunan Farsoon,FS3400CF,Composite,PA-Carbon,No,65,76,4700,8500,3,4.5,94,125,4500,6500,,,,,,,,1.09,,No
+Hunan Farsoon,FS3400GF,Composite,PA-Glass,No,44,44,3500,7800,5,5,68,68,2415,2415,,,,171.9,171.9,,,1.26,,No
+Kevvox,Beige (LC 120),Polymer,PP,No,45,45,,,10,20,1900,1900,,,Shore D,80,80,,,,,,,No
+Kevvox,Castable,Polymer,,No,,,,,,,,,,,Shore D,68,68,,,,,,,No
+Kevvox,Cool Grey,Polymer,ABS,No,45,45,,,10,20,1900,1900,,,Shore D,80,80,,,,,,,No
+Kevvox,Dental Stone (DS 500),Polymer,,No,38,38,,,10,23,1850,1850,,,Shore D,81,81,,,,,,,No
+Kevvox,Ocean Blue (LC 130),Polymer,PP,No,45,45,,,10,20,1900,1900,,,Shore D,80,80,,,,,,,No
+Kevvox,Translucent Orange,Polymer,ABS,No,46,46,,,8,14,2000,2000,,,Shore D,84,84,,,,,,,No
+Lithoz,LithaCon 3Y 610 Purple (ZrO2),Ceramic,Zirconia,Yes,,,,,,,650,650,,,,,,,,,,6.01,,No
+Lithoz,LithaLox HP 500 (Al2O3),Ceramic,Alumina,Yes,,,,,,,430,430,,,,,,,,,,3.96,,No
+LPW,LPW 155 (15-5PH),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 174 (17-4PH),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 1V,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 247LC,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 263,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 276,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 316 (316L),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 4140,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 509,Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 6061,Metal,Aluminum,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 625,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 64,Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 7050,Metal,Aluminum,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 7075,Metal,Aluminum,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 718,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 77,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW 800,Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW AlSi10Mg,Metal,Aluminum,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW AlSi12,Metal,Aluminum,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW Co6,Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW CoCr-2LC,Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW CpTi,Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW Cu,Metal,Copper,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW H13,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW H230,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW M2,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW M300 (18Ni300),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW Ti6242,Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW Ti64 (AMS 4998),Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW Ti64 Gd23,Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW Ti64 Gd5,Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW WASP,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW WC CoCr,Composite,Cermet,No,,,,,,,,,,,,,,,,,,,,No
+LPW,LPW X-2LC,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Aluminum 4047,Metal,Aluminum,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Cobalt Stellite 21,Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Composite CrC,Composite,Carbon-Metal Composite,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Composite TiC,Composite,Carbon-Metal Composite,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Composite WC,Composite,Carbon-Metal Composite,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Copper - CuNi,Metal,Copper,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Copper GRCop-84,Metal,Copper,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,CP Titanium,Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Hastelloy X,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Inconel 625,Metal,Nickel,No,938,938,,,38,38,,,,,,,,,,,,,,No
+Optomec,Inconel 690,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Inconel 718,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,MarM247,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Refractory metal Mo,Metal,Refractory Metal,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Refractory metal N,Metal,Refractory Metal,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Refractory metal W,Metal,Refractory Metal,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Rene 142,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel 13-8,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel 15-5PH,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel 17-4,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel 304,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel 304,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel 309,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel 309,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel 410,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel 416,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel 420,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stainless Steel AM355,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Stanless Steel 316,Metal,Steel,No,799,799,,,50,50,,,,,,,,,,,,,,No
+Optomec,Ti 48-2-2,Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Ti 6-2-4-2,Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Ti 6-2-4-6,Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Ti22Al23Nb,Metal,Titanium,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Ti6Al4V,Metal,Titanium,No,1077,1077,,,11,11,,,,,,,,,,,,,,No
+Optomec,Tool Steel A-2,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Tool Steel H13,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Tool Steel S7,Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Optomec,Waspalloy,Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+Oxford Performance Materials,OXPEKK OXFAB,Polymer,PEEK,No,48,83,3530,3940,1.2,2.5,180,180,3937,3937,,,,,,155,155,,V-0,No
+Prodways,PLASTCure Cast 200,Polymer,,No,,,1800,2800,1,5,80,90,2200,3200,Shore D,80,85,,,,,,,No
+Prodways,PLASTCure Model 200,Polymer,,No,55,80,1900,2000,0.5,1.5,,,1800,2100,Shore D,81,85,90,100,,,,,No
+Prodways,PLASTCure Model 300,Polymer,,No,,,1900,2100,1.2,2,95,130,2150,2400,Shore D,80,85,,,,,,,No
+Renishaw,Renishaw AlSi10Mg,Metal,Aluminum,Yes,332,341,,,4,10,,,,,,,,,,,,2.68,,No
+Renishaw,Renishaw Inconel 718,Metal,Nickel,No,800,1010,,,14,27,,,,,,,,,,,,,,No
+Renishaw,Renishaw Inconel 718,Metal,Nickel,Yes,1175,1250,,,8,12,,,,,,,,,,,,8.19,,No
+Renishaw,Renishaw Ti6Al4V (grade 23),Metal,Titanium,Yes,1155,1197,,,2,8,,,,,,,,,,,,4.42,,No
+Sandvik,17-4PH (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,18Ni300 (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,304L (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,316L (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,4140 (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,430L (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,4365 (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,440C (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,8620 (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,Cu10Mn3Ni (Sandvik),Metal,Copper,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,Cu10Sn (Sandvik),Metal,Copper,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,D2 (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,F75 (Sandvik),Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,F90 (Sandvik),Metal,Cobalt,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,H13 (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,IN625 (Sandvik),Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,IN718 (Sandvik),Metal,Nickel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,M2 (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,SAF2507 (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+Sandvik,SKD-11 (Sandvik),Metal,Steel,No,,,,,,,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions 1.2344 (H13),Metal,Steel,Yes,1700,1760,,,,,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions 1.2709,Metal,Steel,Yes,1080,1140,,,,,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions 1.4404 (316L),Metal,Steel,No,595,655,,,,,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions 1.4540 (15-5PH),Metal,Steel,No,1050,1150,,,12,20,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions AlSi10Mg,Metal,Aluminum,No,352,352,,,3.9,3.9,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions AlSi12,Metal,Aluminum,No,389,429,,,5.1,5.1,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions AlSi7Mg,Metal,Aluminum,No,277,311,,,3.3,3.3,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions CoCr ASTM F75,Metal,Cobalt,No,1030,1070,,,,,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions Inconel 625,Metal,Nickel,No,680,680,,,30,30,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions Inconel 718,Metal,Nickel,No,1010,1290,,,13,23,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions Inconel HX,Metal,Nickel,No,910,910,,,35,35,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions Pure Titanium,Metal,Titanium,No,290,290,,,20,20,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions Ti 6Al 4V,Metal,Titanium,Yes,972,972,,,10,10,,,,,,,,,,,,,,No
+SLM Solutions,SLM Solutions Ti 6Al 7Nb,Metal,Titanium,Yes,1020,1020,,,10,10,,,,,,,,,,,,,,No
+Solidscape,3Z LabCAST,Wax,,No,,,,,,,,,,,,,,,,,,,,No
+Solidscape,3Z Model,Wax,,No,,,,,,,,,,,,,,,,,,,,No
+Stratasys,ABS-ESD7,Polymer,ABS,No,36,36,2400,2400,3,3,61,61,2400,2400,,,,96,96,108,108,,HB,No
+Stratasys,ABS-i,Polymer,ABS,No,37,37,1920,1920,4.4,4.4,62,62,1920,1920,,,,86,86,116,116,,HB,No
+Stratasys,ABS-M30,Polymer,ABS,No,36,36,2400,2400,4,4,61,61,2300,2300,,,,96,96,108,108,,HB,No
+Stratasys,ABS-M30i,Polymer,ABS,No,36,36,2400,2400,4,4,61,61,2300,2300,,,,96,96,108,108,,HB,Yes
+Stratasys,ABSplus,Polymer,ABS,No,37,37,2320,2320,3,3,53,53,2250,2250,,,,96,96,108,108,,,No
+Stratasys,ASA,Polymer,ASA,No,30,33,1950,2010,3,9,48,60,1630,1870,,,,98,98,108,108,,HB,No
+Stratasys,Clear Bio-compatible MED610,Polymer,,No,50,65,2000,3000,10,25,75,110,2200,3200,Shore D,83,86,45,50,52,54,1.17,,No
+Stratasys,CrownWorx TrueCast,Wax,Wax,No,,,,,,,,,,,,,,,,,,,,No
+Stratasys,DurusWhite RGD430,Polymer,PP,No,20,30,1000,2000,40,50,30,40,1200,1600,Shore D,74,78,37,42,35,37,1.16,,No
+Stratasys,Endur RGD450,Polymer,Acrylic,No,,,,,,,,,,,,,,,,,,,,No
+Stratasys,FDM Nylon 12,Polymer,PA,No,,,,,,,,,,,,,,,,,,,,No
+Stratasys,FrameWorx TrueCast,Wax,Wax,No,,,,,,,,,,,,,,,,,,,,No
+Stratasys,PC,Polymer,PC,No,68,68,2300,2300,5,5,104,104,2200,2200,,,,138,138,161,161,,HB,No
+Stratasys,PC-ABS,Polymer,ABS/PP,No,41,41,1900,1900,6,6,68,68,1900,1900,,,,110,110,125,125,1.1,HB,No
+Stratasys,PC-ISO,Polymer,PC,No,57,57,2000,2000,4,4,90,90,2100,2100,,,,133,133,161,161,,HB,Yes
+Stratasys,PPSF,Polymer,PPS,No,55,55,2100,2100,3,3,110,110,2200,2200,,,,,,230,230,,V-0,No
+Stratasys,RGD5130-DM,Polymer,ABS,No,55,60,2600,3000,25,40,65,75,1700,2200,Shore D,85,87,58,68,47,53,1.17,,No
+Stratasys,RGD5131-DM,Polymer,ABS,No,55,60,2600,3000,25,40,65,75,1700,2200,Shore D,85,87,58,68,47,53,1.17,,No
+Stratasys,RGD5160-DM,Polymer,ABS,No,55,60,2600,3000,25,40,65,75,1700,2200,Shore D,85,87,58,68,47,53,1.17,,No
+Stratasys,RGD5161-DM,Polymer,ABS,No,55,60,2600,3000,25,40,65,75,1700,2200,Shore D,85,87,58,68,47,53,1.17,,No
+Stratasys,RGD525,Polymer,Acrylic,No,70,80,3200,3500,10,15,110,130,3100,3500,Shore D,87,88,63,67,62,65,1.17,,No
+Stratasys,RGD720,Polymer,Acrylic,No,50,65,2000,3000,15,25,80,110,2700,3300,Shore D,83,86,45,50,48,50,1.18,,No
+Stratasys,TangoBlack FLX973,Polymer,Rubber,No,1.8,2.4,,,45,55,,,,,Shore D,60,62,,,,,1.14,,No
+Stratasys,TangoBlackPlus FLX980,Polymer,Rubber,No,0.8,1.5,,,170,220,,,,,Shore D,26,28,,,,,1.12,,No
+Stratasys,TangoGray FLX950,Polymer,Rubber,No,3,5,,,45,55,,,,,Shore D,73,77,,,,,1.16,,No
+Stratasys,TangoPlus FLX930,Polymer,Rubber,No,0.8,1.5,,,170,220,,,,,Shore D,26,28,,,,,1.12,,No
+Stratasys,ULTEM 1010,Polymer,PEI,No,,,2241,2772,1.3,3.3,77,144,2234,2820,,,,216,216,215,215,,V0,Yes
+Stratasys,ULTEM 9085,Polymer,PEI,No,71.6,71.6,2200,2200,6,6,115.1,115.1,2500,2500,,,,,,186,186,,V-0,No
+Stratasys,VeroBlackPlus RGD875,Polymer,Acrylic,No,50,65,2000,3000,10,25,75,110,2200,3200,Shore D,83,86,45,50,52,54,1.17,,No
+Stratasys,VeroBlue RGD840,Polymer,Acrylic,No,50,60,2000,3000,15,25,60,70,1900,2500,Shore D,83,86,45,50,48,50,1.18,,No
+Stratasys,VeroClear RGD810,Polymer,Acrylic,No,50,65,2000,3000,15,25,75,110,2200,3200,Shore D,83,86,45,50,52,54,1.18,,No
+Stratasys,VeroCyan RGD841,Polymer,Acrylic,No,50,65,2000,3000,10,25,75,110,2200,3200,Shore D,83,86,45,50,52,54,1.17,,No
+Stratasys,VeroDent MED670,Polymer,,No,50,60,2000,3000,10,25,75,110,2200,3200,Shore D,83,86,45,50,52,54,1.17,,No
+Stratasys,VeroDentPlus MED690,Polymer,,No,54,65,2200,3200,15,25,80,110,2400,3300,Shore D,52,54,45,50,52,54,1.17,,No
+Stratasys,VeroGlaze MED620,Polymer,,No,,,,,,,,,,,,,,,,,,,,No
+Stratasys,VeroGray RGD850,Polymer,Acrylic,No,50,65,2000,3000,10,25,75,110,2200,3200,Shore D,83,86,45,50,52,54,1.17,,No
+Stratasys,VeroWhitePlus RGD835,Polymer,Acrylic,No,50,65,2000,3000,10,25,75,110,2200,3200,Shore D,83,86,45,50,52,54,1.17,,No
+Stratasys,VeroYellow RGD841,Polymer,Acrylic,No,50,65,2000,3000,10,25,75,110,2200,3200,Shore D,83,86,45,50,52,54,1.17,,No
+Stratasys,YellowMagenta RGD851,Polymer,Acrylic,No,50,65,2000,3000,10,25,75,110,2200,3200,Shore D,83,86,45,50,52,54,1.17,,No
+voxeljet,PMMA - Polypor B,Polymer,PMMA,No,4.3,4.3,,,,,,,,,,,,,,,,,,No
+voxeljet,PMMA - Polypor C,Polymer,PMMA,No,3.7,3.7,,,,,,,,,,,,,,,,,,No
+voxeljet,Silica Sand - Inorganic binder,Sand,Silicate,No,,,,,,,2.2,2.8,,,,,,,,,,,,No
